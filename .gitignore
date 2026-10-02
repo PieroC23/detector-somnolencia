@@ -1,0 +1,10 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de Auditoría Locales
+caja_negra.csv
+evidencias/
+
+# Modelos pesados (El usuario debe descargarlo por su cuenta)
+shape_predictor_68_face_landmarks.dat
