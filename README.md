@@ -17,7 +17,7 @@ Este proyecto es un sistema de visión computacional diseñado para prevenir acc
 ## ⚙️ Instalación y Uso
 1. Clona este repositorio: `git clone https://github.com/tu-usuario/detector-somnolencia.git`
 2. Instala las dependencias: `pip install opencv-python dlib numpy`
-3. **Importante:** Descarga el modelo preentrenado [shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2), descomprímelo y colócalo en la raíz del proyecto.
+3. **Importante:** Descarga el modelo preentrenado [shape_predictor_68_face_landmarks.dat][(http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2), descomprímelo y colócalo en la raíz del proyecto.
 4. Añade dos archivos de audio cortos en la raíz con los nombres `somnolencia.wav` y `distraccion.wav`.
 5. Ejecuta el sistema: `python main.py`
 
